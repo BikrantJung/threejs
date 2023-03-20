@@ -1,4 +1,5 @@
 import * as three from "three";
+// import { cube } from "./creatingCube";
 const canvasWrapper = document.getElementById("canvas-wrapper");
 // Creating a scene
 const scene = new three.Scene();
