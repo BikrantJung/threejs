@@ -1,0 +1,21 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/three": "^0.149.0",
+    "parcel": "^2.8.3",
+    "three": "^0.150.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
